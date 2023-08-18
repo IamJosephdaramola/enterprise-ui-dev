@@ -1,5 +1,5 @@
-import colors from '@/colors.json';
 import { css } from '@emotion/css';
+import colors from '../colors.json';
 import { ComponentPropsWithoutRef } from 'react';
 
 type ButtonProps = {
